@@ -1,0 +1,160 @@
+/* begin Box, Sheet */
+.art-Sheet-tl
+{
+	clip: rect(auto 24px 24px auto);
+}
+
+.art-Sheet-tr
+{
+	clip: rect(auto auto 24px 24px);
+}
+
+.art-Sheet-bl
+{
+	clip: rect(24px 24px auto auto);
+}
+
+.art-Sheet-br
+{
+	clip: rect(24px auto auto 24px);
+}
+
+.art-Sheet-tc
+{
+	clip: rect(auto auto 24px auto);
+}
+
+.art-Sheet-bc
+{
+	clip: rect(24px auto auto auto);
+}
+
+.art-Sheet-cr
+{
+	clip: rect(auto auto auto 24px);
+}
+
+.art-Sheet-cl
+{
+	clip: rect(auto 24px auto auto);
+}
+/* end Box, Sheet */
+
+/* begin Menu */
+.art-nav .r
+{	clip: rect(auto auto auto 945px);
+}
+/* end Menu */
+
+/* begin MenuItem */
+.art-menu a .r
+{
+	clip: rect(auto auto auto 400px);
+}
+/* end MenuItem */
+
+/* begin BlockHeader */
+.art-BlockHeader .r
+{
+	clip: rect(auto auto auto 947px);
+}
+/* end BlockHeader */
+
+/* begin Box, BlockContent */
+.art-BlockContent-tl
+{
+	clip: rect(auto 8px 8px auto);
+}
+
+.art-BlockContent-tr
+{
+	clip: rect(auto auto 8px 8px);
+}
+
+.art-BlockContent-bl
+{
+	clip: rect(8px 8px auto auto);
+}
+
+.art-BlockContent-br
+{
+	clip: rect(8px auto auto 8px);
+}
+
+.art-BlockContent-tc
+{
+	clip: rect(auto auto 8px auto);
+}
+
+.art-BlockContent-bc
+{
+	clip: rect(8px auto auto auto);
+}
+
+.art-BlockContent-cr
+{
+	clip: rect(auto auto auto 8px);
+}
+
+.art-BlockContent-cl
+{
+	clip: rect(auto 8px auto auto);
+}
+/* end Box, BlockContent */
+
+/* begin Box, Post */
+.art-Post-tl
+{
+	clip: rect(auto 13px 13px auto);
+}
+
+.art-Post-tr
+{
+	clip: rect(auto auto 13px 13px);
+}
+
+.art-Post-bl
+{
+	clip: rect(13px 13px auto auto);
+}
+
+.art-Post-br
+{
+	clip: rect(13px auto auto 13px);
+}
+
+.art-Post-tc
+{
+	clip: rect(auto auto 13px auto);
+}
+
+.art-Post-bc
+{
+	clip: rect(13px auto auto auto);
+}
+
+.art-Post-cr
+{
+	clip: rect(auto auto auto 13px);
+}
+
+.art-Post-cl
+{
+	clip: rect(auto 13px auto auto);
+}
+/* end Box, Post */
+
+/* begin PostContent */
+.art-PostContent
+{
+	height:1%;
+}
+/* end PostContent */
+
+/* begin Button */
+.art-button-wrapper .r
+{
+	clip: rect(auto auto auto 399px);
+}
+/* end Button */
+
