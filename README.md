@@ -6,6 +6,6 @@ You probably want to visit:
 * [WPStaticHtmlOutput] - the plugin that generated it from Wordpress
 * [Wordpress] - the simple CMS 
 
-[CutisNostra]:http://cutis-nostra.si
+[CutisNostra]:https://cutis-nostra.si
 [WPStaticHtmlOutput]:https://wordpress.org/plugins/static-html-output-plugin/
 [Wordpress]:https://wordpress.org/
